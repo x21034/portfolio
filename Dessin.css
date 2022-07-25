@@ -168,7 +168,6 @@
 
     .hero {
         color: #ffffff;
-        display: flex;
         background-image: url(AME20181201B009_TP_V4.jpg);
         background-size: cover;
         background-position: center;
@@ -179,6 +178,7 @@
         width: 200px;
     }
 
-    .hero .button {
+    .button {
         width: 200px;
+        display: flex;
     }
