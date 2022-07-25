@@ -167,18 +167,16 @@
     }
 
     .hero {
+        height: calc(100vh - 120px - 60px);
         color: #ffffff;
         padding: 0;
         margin: 0;
-        min-height: 100vh;
-        position: relative;
         display: flex;
-        justify-content: center;
+        flex-direction: column;
         align-items: center;
+        justify-content: center;
         background-image: url(AME20181201B009_TP_V4.jpg);
         background-size: cover;
-        background-size: cover;
-        background-position: center center;
         font-size: 4rem;
     }
     
