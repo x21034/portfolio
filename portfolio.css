@@ -167,6 +167,10 @@ footer{
   font-size: 4rem;
 }
 
+.hero img {
+  width: 200px;
+}
+
 .hero p{
   margin-left: 1rem;
 }
